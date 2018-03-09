@@ -1,0 +1,21 @@
+S:\Project Visual Studio\C#\Program Text File\Program Text File\bin\Debug\Program Text File.exe.config
+S:\Project Visual Studio\C#\Program Text File\Program Text File\bin\Debug\Program Text File.exe
+S:\Project Visual Studio\C#\Program Text File\Program Text File\bin\Debug\Program Text File.pdb
+S:\Project Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.csprojResolveAssemblyReference.cache
+S:\Project Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program_Text_File.Form1.resources
+S:\Project Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program_Text_File.Properties.Resources.resources
+S:\Project Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.csproj.GenerateResource.Cache
+S:\Project Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.exe
+S:\Project Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.pdb
+S:\Project Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program_Text_File.Credit.resources
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\bin\Debug\Program Text File.exe.config
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\bin\Debug\Program Text File.exe
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\bin\Debug\Program Text File.pdb
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.csprojResolveAssemblyReference.cache
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program_Text_File.Credit.resources
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program_Text_File.Form1.resources
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program_Text_File.Properties.Resources.resources
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.csproj.GenerateResource.Cache
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.csproj.CoreCompileInputs.cache
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.exe
+D:\SavefileEachLanguage\Visual Studio\C#\Program Text File\Program Text File\obj\Debug\Program Text File.pdb
